@@ -23,7 +23,7 @@ Eliminar un tópico.</p>
 
 #  Estado del proyecto
 <p>
-   <img src="https://img.shields.io/badge/STATUS-ESTA%20REBUILD-orange">
+   <img src="https://img.shields.io/badge/STATUS-REBUILDING-orange">
 </p>
 
 
